@@ -7,7 +7,7 @@ Usage
 Practicing your programming Algorithm Skills before a job interview, or just sharpening your skills in general.
 
 Motivations
-To better prepare myself for interview questions. This allows me to test my skills based on the difficulty level. Beginner, Intermeddiate, Diffcult or Very Difficult.
+To better prepare myself for interview questions. This allows me to test my C++, Javascript and Python skills based on the difficulty level. Beginner, Intermeddiate, Diffcult or Very Difficult.
 
 License
 MIT
