@@ -1,0 +1,53 @@
+/* .files-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f6f8fa;
+  }
+  
+  .container {
+    max-width: 600px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 6px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #24292e;
+  }
+  
+  .files-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .file-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .file-icon {
+    margin-right: 10px;
+    font-size: 20px;
+    color: #0366d6;
+  }
+  
+  .file-name {
+    font-size: 16px;
+    color: #24292e;
+  }
+  
+  .no-files {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 16px;
+    color: #999;
+  }
+   */

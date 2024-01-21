@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Color Theme Swatches in Hex */
+.Brama-Architectural-Bureau-1-hex { color: #40140A; }
+.Brama-Architectural-Bureau-2-hex { color: #8C331F; }
+.Brama-Architectural-Bureau-3-hex { color: #8C0E03; }
+.Brama-Architectural-Bureau-4-hex { color: #D96459; }
+.Brama-Architectural-Bureau-5-hex { color: #0D0D0D; }
+:root{
+  --background--color: #181818;;
+  --primary--text--color: #3B3F8C;
+  --bg--container--black: #141414;
+
+}
+
+
+body{
+  background-color: var(--background--color);
+}
+.primary--text--color{
+  color: var(--primary--text--color)
+}
+.nav--bar{
+  background-color: #141414;;
+  box-shadow: 1px 1px 2rem black;
+
+}
+.btn--homepage--chat{
+  background-color: var(--bg--container--black);
+
+  /* padding: 10px; */
+  box-shadow: 1px 1px 1rem black;
+  
+
+}

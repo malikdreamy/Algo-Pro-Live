@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87f79e19.css",
+    "main.js": "/static/js/main.f1352f4e.js",
+    "static/media/animals.gif": "/static/media/animals.d17859eda9e4dd99daed.gif",
+    "static/media/programmer.png": "/static/media/programmer.9e59e829f5cca21e3a2d.png",
+    "static/media/rilakumma.jpg": "/static/media/rilakumma.69c8d30e1a250477fb39.jpg",
+    "static/media/original (1).webp": "/static/media/original (1).b39c6dfb5be7ad10beaa.webp",
+    "index.html": "/index.html",
+    "main.87f79e19.css.map": "/static/css/main.87f79e19.css.map",
+    "main.f1352f4e.js.map": "/static/js/main.f1352f4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87f79e19.css",
+    "static/js/main.f1352f4e.js"
+  ]
+}
